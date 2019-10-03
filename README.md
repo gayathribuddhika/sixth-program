@@ -1,2 +1,0 @@
-# sixth-program
-sixth program
